@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <!--Mac stuff below-->
+    <CFBundleName>RPGPrototype</CFBundleName> <!-- Also defines .app file name -->
+    <CFBundleDisplayName>RPGPrototype</CFBundleDisplayName>
+    <CFBundleIdentifier>com.LukeKellett.RPGProtoType</CFBundleIdentifier>
+    <CFBundleVersion>1.0.0</CFBundleVersion>
+    <CFBundleShortVersionString>1.0</CFBundleShortVersionString>
+    <CFBundlePackageType>AAPL</CFBundlePackageType>
+    <!--Bundle Signature Here-->
+    <CFBundleExecutable>RPGPrototype</CFBundleExecutable>
+    <NSPrincipalClass>NSApplication</NSPrincipalClass>
+    <NSHighResolutionCapable>true</NSHighResolutionCapable>
+    <RuntimeIdentifiers>osx-x64</RuntimeIdentifiers>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Colorful.Console" Version="1.2.15" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Terminal.Gui" Version="0.90.3" />
+    <PackageReference Include="Dotnet.Bundle" Version="*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="data\*" CopyToPublishDirectory="PreserveNewest" CopyToOutputDirectory="Always"/>
+  </ItemGroup>
+</Project>

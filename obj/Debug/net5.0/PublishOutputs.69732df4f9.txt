@@ -1,0 +1,9 @@
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\publish\RPGPrototype.exe
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\publish\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\publish\RPGPrototype.deps.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\publish\RPGPrototype.runtimeconfig.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\publish\RPGPrototype.pdb
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\publish\Colorful.Console.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\publish\NStack.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\publish\Terminal.Gui.dll

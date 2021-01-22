@@ -1,0 +1,17 @@
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Release\net5.0\RPGPrototype.exe
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Release\net5.0\RPGPrototype.deps.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Release\net5.0\RPGPrototype.runtimeconfig.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Release\net5.0\RPGPrototype.runtimeconfig.dev.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Release\net5.0\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Release\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Release\net5.0\RPGPrototype.pdb
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Release\net5.0\RPGPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Release\net5.0\RPGPrototype.AssemblyInfoInputs.cache
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Release\net5.0\RPGPrototype.AssemblyInfo.cs
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Release\net5.0\RPGPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Release\net5.0\RPGPrototype.csproj.CopyComplete
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Release\net5.0\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Release\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Release\net5.0\RPGPrototype.pdb
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Release\net5.0\RPGPrototype.genruntimeconfig.cache

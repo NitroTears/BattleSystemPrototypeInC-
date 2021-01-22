@@ -1,0 +1,101 @@
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.exe
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.deps.json
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.runtimeconfig.json
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.runtimeconfig.dev.json
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.dll
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.pdb
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.AssemblyInfoInputs.cache
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.AssemblyInfo.cs
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.dll
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.pdb
+C:\Users\Luke\Desktop\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.genruntimeconfig.cache
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.exe
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.deps.json
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.runtimeconfig.json
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.runtimeconfig.dev.json
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.dll
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.pdb
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.csprojAssemblyReference.cache
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.AssemblyInfoInputs.cache
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.AssemblyInfo.cs
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.dll
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.pdb
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.genruntimeconfig.cache
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luke\OneDrive - University of the Sunshine Coast\Projects\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.csproj.CopyComplete
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.exe
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.deps.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.runtimeconfig.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.runtimeconfig.dev.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\RPGPrototype.pdb
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.AssemblyInfoInputs.cache
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.AssemblyInfo.cs
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.csproj.CopyComplete
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.pdb
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\obj\Debug\net5.0\RPGPrototype.genruntimeconfig.cache
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\NStack.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\Terminal.Gui.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\RPGPrototype\bin\Debug\net5.0\Colorful.Console.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.exe
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.deps.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.runtimeconfig.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.runtimeconfig.dev.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.pdb
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\Colorful.Console.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\NStack.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\Terminal.Gui.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.AssemblyInfoInputs.cache
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.AssemblyInfo.cs
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.csproj.CopyComplete
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\obj\Debug\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.pdb
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.genruntimeconfig.cache
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\data\spells.json
+C:\Users\Luke\Desktop\BattleSystemPrototypeInC#\bin\Debug\net5.0\data\stats.json
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.exe
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\data\spells.json
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\data\stats.json
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.deps.json
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.runtimeconfig.json
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.runtimeconfig.dev.json
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.dll
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\RPGPrototype.pdb
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\Colorful.Console.dll
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\NStack.dll
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\bin\Debug\net5.0\Terminal.Gui.dll
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.csprojAssemblyReference.cache
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.AssemblyInfoInputs.cache
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.AssemblyInfo.cs
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.csproj.CopyComplete
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.dll
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\obj\Debug\net5.0\ref\RPGPrototype.dll
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.pdb
+C:\Users\Luke\Repos\BattleSystemPrototypeInC#\obj\Debug\net5.0\RPGPrototype.genruntimeconfig.cache
