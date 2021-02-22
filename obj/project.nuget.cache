@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1BA8tbE3BdZ5+aXgyRcX8DwZYe9wU2ES0FVovNBhc3JYJoflfbX3+OmjutRSiesOr/7zPLkoZtqVJzi6bK3NFg==",
+  "dgSpecHash": "srWYU3ccQImI12GTou+YZ4YZ/A7s2uoi+0ZOFXWM3L2VbjjzgpdkvDlYB1Djp3sT7uL99kYFAeAEB156OKig/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luke\\Repos\\BattleSystemPrototypeInC#\\RPGPrototype.csproj",
+  "projectFilePath": "C:\\Users\\Luke\\Repos\\BattleSystemPrototypeInC#\\BattleSystemPrototypeInCSharp\\RPGPrototype.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luke\\.nuget\\packages\\colorful.console\\1.2.15\\colorful.console.1.2.15.nupkg.sha512",
     "C:\\Users\\Luke\\.nuget\\packages\\dotnet.bundle\\0.9.13\\dotnet.bundle.0.9.13.nupkg.sha512",

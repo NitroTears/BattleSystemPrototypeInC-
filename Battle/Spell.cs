@@ -32,7 +32,7 @@ namespace Prototype.Battle
         /// Gets or sets the element of the spell. This value is nullable, and if so, indicates this spell does not have an element.
         /// </summary>
 #nullable enable
-        public string? Element { get; set; } // This could easily be an enum for future projects.
+        public Element Element { get; set; } // This could easily be an enum for future projects.
 #nullable disable
         /// <summary>
         /// Initialises a new instance of the <see cref="Spell"/> class.
@@ -42,7 +42,7 @@ namespace Prototype.Battle
         /// <param name="desc">Description of the Spell</param>
         /// <param name="id">ID of the Spell</param>
         /// <param name="element">Element of the spell</param>
-        public Spell(string name, short damage, string desc, string id, string element = null) 
+        public Spell(string name, short damage, string desc, string id, Element element = Element.none) 
         {
             this.Name = name;
             this.Element = element;
@@ -61,6 +61,7 @@ namespace Prototype.Battle
         /// <param name="id">id from spells.json used to fill spell stats.</param>
         public Spell(string id)
         {
+            string elementStr = ""; //used when casting string to Element enum
             JObject newSpell = new JObject();
 
             try
@@ -87,10 +88,9 @@ namespace Prototype.Battle
             try
             {
                 Name = (string)newSpell[id]["name"];
-                Element = (string)newSpell[id]["element"];
                 Damage = (short)newSpell[id]["damage"];
                 Description = (string)newSpell[id]["desc"];
-                
+                elementStr = (string)newSpell[id]["element"] ?? "none";
             }
             catch (System.NullReferenceException e)
             {
@@ -104,6 +104,20 @@ namespace Prototype.Battle
                 System.Environment.Exit(1);
             }
             ID = id;
+
+            WriteLine("{0}'s element is: {1}", this.Name, this.Element);
+            if (Enum.TryParse<Element>(elementStr, out Element elementEnum))
+            {
+                WriteLine("set {0}'s element to: {1}", this.Name, elementEnum);
+                this.Element = elementEnum;
+                WriteLine("{0}'s element is: {1}", this.Name, this.Element);
+            }
+            else
+            {
+                WriteLine("{0}'s element could not be set", this.Name);
+                this.Element = elementEnum;
+                WriteLine("{0}'s element is: {1}", this.Name, this.Element);
+            }
         }
 
         /// <summary>
@@ -111,9 +125,9 @@ namespace Prototype.Battle
         /// </summary>
         /// <returns>A formatted string with all information about the actor, designed to be printed to console. </returns>
         override public string ToString() {
-            string aElement = Element ?? "none";
+            string elementStr = Element.ToString() == "none" ? "None." : Element.ToString(); //if element is 'none, print 'None.', else print the element name.
             string descText = Description ?? "No Data Available.";
-            string elemText = char.ToUpper(aElement[0]) + aElement.Substring(1);
+            string elemText = char.ToUpper(elementStr[0]) + elementStr.Substring(1);
             return $"~~~'{Name}' Spell~~~\nDamage: {Damage} Element: {elemText}\nDescription: {descText}";
         }
     }

@@ -13,7 +13,7 @@ namespace Prototype.Battle
         ushort HP { get; set; }
         ushort MaxHP { get; set; }
         string Name { get; set; }
-        string Weakness { get; set; }
+        Element Weakness { get; set; }
 
         Tuple<string, string> AttackActor(BattleActor target, Spell spell);
     }

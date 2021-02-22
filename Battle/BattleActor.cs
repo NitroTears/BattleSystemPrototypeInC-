@@ -37,10 +37,10 @@ namespace Prototype.Battle
         /// </summary>
         public string Description { get; set; }
         /// <summary>
-        /// Gets or sets the weakness of the actor. This value is nullable, and if so, indicates the actor does not have a weakness.
+        /// Gets or sets the weakness of the actor. 'none' or 0 values indicate the actor does not have a weakness.
         /// </summary>
 #nullable enable
-        public string? Weakness { get; set; }
+        public Element Weakness { get; set; } = Element.none;
 #nullable disable
 
         /// <summary>
@@ -51,7 +51,7 @@ namespace Prototype.Battle
         /// <param name="atk">Attack stat of the actor.</param> <param name="def">Defense stat of the actor.</param>
         /// <param name="weakness">Weakness of the actor.</param>
         /// <param name="description">Description of the actor.</param>
-        public BattleActor(string name, ushort hp, short atk, short def, string description, string weakness = null)
+        public BattleActor(string name, ushort hp, short atk, short def, string description, Element weakness = Element.none)
         {
             this.Name = name;
             this.MaxHP = hp;
@@ -71,6 +71,7 @@ namespace Prototype.Battle
         /// <param name="id">id from stats.json used to fill actor stats.</param>
         public BattleActor(string id)
         {
+            string elementStr = ""; //used when casting string to Element enum
             JObject newActor = new JObject();
             try
             {
@@ -102,7 +103,8 @@ namespace Prototype.Battle
                 Attack = (short)newActor[id]["atk"];
                 Defense = (short)newActor[id]["def"];
                 Description = (string)newActor[id]["desc"];
-                Weakness = (string)newActor[id]["weakness"];
+                elementStr = (string)newActor[id]["weakness"] ?? "none";
+
             }
             catch (System.NullReferenceException e)
             {
@@ -113,6 +115,20 @@ namespace Prototype.Battle
                 Console.WriteLine("The program will now close.");
                 ReadKey();
                 System.Environment.Exit(1);
+            }
+
+            WriteLine("{0}'s weakness is: {1}", this.Name, this.Weakness);
+            if (Enum.TryParse<Element>(elementStr, out Element elementEnum))
+            {
+                WriteLine("set {0}'s weakness to: {1}", this.Name, elementEnum);
+                this.Weakness = elementEnum;
+                WriteLine("{0}'s weakness is: {1}", this.Name, this.Weakness);
+            }
+            else
+            {
+                WriteLine("{0}'s weakness could not be set", this.Name);
+                this.Weakness = elementEnum;
+                WriteLine("{0}'s weakness is: {1}", this.Name, this.Weakness);
             }
         }
 
@@ -133,7 +149,7 @@ namespace Prototype.Battle
             var damage = spell.Damage;
             int newHP = HP;
             //Weakness calculation. If the spell element matches the actor weakness (except null element), deal more damage.
-            if (target.Weakness == spell.Element && spell.Element != null)
+            if (spell.Element == target.Weakness && spell.Element != Element.none)
             {
                 damage = (short)Math.Round(damage * 1.25);
                 extra = $"Hit {target.Name}'s weakness!";
@@ -178,7 +194,7 @@ namespace Prototype.Battle
         /// <returns>A formatted string with all information about the actor, designed to be printed to console. </returns>
         override public string ToString()
         {
-            string weakLower = Weakness ?? "None.";
+            string weakLower = Weakness.ToString() ?? "None.";
             string weakText = char.ToUpper(weakLower[0]) + weakLower.Substring(1);
             return $"~~STATUS INFORMATION~~\nName: {Name}\nHP: {HP} / {MaxHP}\nATK: {Attack} DEF: {Defense}\nWeakness: {weakText}";
         }

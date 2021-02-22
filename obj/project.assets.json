@@ -3942,11 +3942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luke\\Repos\\BattleSystemPrototypeInC#\\RPGPrototype.csproj",
+      "projectUniqueName": "C:\\Users\\Luke\\Repos\\BattleSystemPrototypeInC#\\BattleSystemPrototypeInCSharp\\RPGPrototype.csproj",
       "projectName": "RPGPrototype",
-      "projectPath": "C:\\Users\\Luke\\Repos\\BattleSystemPrototypeInC#\\RPGPrototype.csproj",
+      "projectPath": "C:\\Users\\Luke\\Repos\\BattleSystemPrototypeInC#\\BattleSystemPrototypeInCSharp\\RPGPrototype.csproj",
       "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luke\\Repos\\BattleSystemPrototypeInC#\\obj\\",
+      "outputPath": "C:\\Users\\Luke\\Repos\\BattleSystemPrototypeInC#\\BattleSystemPrototypeInCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

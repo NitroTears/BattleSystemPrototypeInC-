@@ -1,0 +1,28 @@
+{
+    "attack": {
+        "name": "Attack",
+        "element": null,
+        "damage": 15,
+        "desc": "A regular attack."
+    },
+    "fire":{
+        "name": "Fire",
+        "element": "fire",
+        "damage": 30,
+        "desc": "A fire blast."
+    },
+    "ice": {
+        "name": "Ice",
+        "element": "ice",
+        "damage": 30,
+        "desc": "An ice beam."
+    },
+    "heal": {
+        "name": "Heal",
+        "element": null,
+        "damage": -20,
+        "desc": "Heal the user."
+    }
+    
+
+}

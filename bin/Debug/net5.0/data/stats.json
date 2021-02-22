@@ -1,0 +1,42 @@
+{
+    "initplayer": {
+        "name": "Player",
+        "hp": 100,
+        "atk": 5,
+        "def": 5,
+        "spells" : [
+            "attack",
+            "fire",
+            "heal"
+        ],
+        "desc": "The Player dude",
+        "weakness" : null
+    },
+    "bot": {
+        "name": "Test Bot",
+        "hp": 100,
+        "atk": 5,
+        "def": 5,
+        "spells" : [
+            "attack",
+            "fire",
+            "ice",
+            "heal"
+        ],
+        "desc": "Enemy Robot dude",
+        "weakness": "fire"
+    },
+    "beblo": {
+        "name": "The Beblo",
+        "hp": 125,
+        "atk": 6,
+        "def": 6,
+        "spells" : [
+            "attack",
+            "fire",
+            "ice"
+        ],
+        "desc": "Wacko Beblo dude",
+        "weakness": null
+    }
+}
