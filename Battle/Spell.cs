@@ -125,7 +125,7 @@ namespace Prototype.Battle
         /// </summary>
         /// <returns>A formatted string with all information about the actor, designed to be printed to console. </returns>
         override public string ToString() {
-            string elementStr = Element.ToString() == "none" ? "None." : Element.ToString(); //if element is 'none, print 'None.', else print the element name.
+            string elementStr = Element.ToString() == "none" ? "None" : Element.ToString(); //if element is 'none, print 'None.', else print the element name.
             string descText = Description ?? "No Data Available.";
             string elemText = char.ToUpper(elementStr[0]) + elementStr.Substring(1);
             return $"~~~'{Name}' Spell~~~\nDamage: {Damage} Element: {elemText}\nDescription: {descText}";

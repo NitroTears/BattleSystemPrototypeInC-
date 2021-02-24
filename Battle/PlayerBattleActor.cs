@@ -39,6 +39,7 @@ namespace Prototype.Battle
             {
                 Spell spell = new Spell(jsonList[i]);
                 AddSpell(spell);
+                //WriteLine(spell.ToString());
             }
             Write("added to new actor: " + Name + "\n");
         }
@@ -61,7 +62,7 @@ namespace Prototype.Battle
             if (!exists) // if not, add it to the SpellList
             {
                 SpellList.Add(spell);
-                Write(spell.Name + ", ");
+                //Write(spell.Name + ", ");
             }
         }
 

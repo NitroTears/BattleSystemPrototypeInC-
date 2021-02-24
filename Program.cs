@@ -12,8 +12,9 @@ namespace Prototype
         {
             PlayerBattleActor player = new PlayerBattleActor("initplayer"); //Who the player controls
             BattleActor enemy = new BattleActor("bot"); //Who the player will fight
-            //BattleScene battleScene = new BattleScene(player, enemy);
-           // battleScene.BattleLoop();
+            BattleScene battleScene = new BattleScene(player, enemy);
+            battleScene.BattleLoop();
+            
         }
     }
 }

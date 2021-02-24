@@ -194,7 +194,7 @@ namespace Prototype.Battle
         /// <returns>A formatted string with all information about the actor, designed to be printed to console. </returns>
         override public string ToString()
         {
-            string weakLower = Weakness.ToString() ?? "None.";
+            string weakLower = Weakness.ToString() ?? "None";
             string weakText = char.ToUpper(weakLower[0]) + weakLower.Substring(1);
             return $"~~STATUS INFORMATION~~\nName: {Name}\nHP: {HP} / {MaxHP}\nATK: {Attack} DEF: {Defense}\nWeakness: {weakText}";
         }
